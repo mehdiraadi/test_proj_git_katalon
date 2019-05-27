@@ -17,3 +17,5 @@ WebUI.openBrowser('')
 
 WebUI.acceptAlert()
 
+WebUI.comment("test")
+
